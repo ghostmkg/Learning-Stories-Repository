@@ -1,4 +1,4 @@
-# The Rise of a Football Star ⚽
+# My open source journey
 
 👤 **Name:** kavya maurya
 📅 **Debut:** january 2004
