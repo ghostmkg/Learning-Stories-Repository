@@ -2,7 +2,7 @@
 
 👤 **Name:** Susant edit
 📅 **First Contribution:** October 2025  
-🔧 **Tools/Tech Used:** C++, GitHub, Markdown  
+🔧 **Tools/Tech Used:** C++, GitHub, Markdown  .
 
 🌟 **My Experience:**  
 I am starting my open-source journey during Hacktoberfest 2025. At first, I was nervous about contributing because I thought I needed to be an expert in coding. But then I discovered projects that welcomed **non-code contributions** like improving documentation, writing tutorials, and designing simple graphics.  
