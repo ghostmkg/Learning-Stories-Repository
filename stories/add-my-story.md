@@ -1,6 +1,6 @@
 # My Open Source Journey ✨
 
-👤 **Name:** Add my story
+👤 **Name:** Shivam Pal
 📅 **First Contribution:** May 2025  
 🔧 **Tools/Tech Used:** Python, GitHub, Markdown  
 
