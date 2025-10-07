@@ -1,13 +1,14 @@
-# My Open Source Journey ✨
+Title: 
+My Learning Adventure 🚀
 
-👤 **Name:** Add my story
-📅 **First Contribution:** May 2025  
-🔧 **Tools/Tech Used:** Python, GitHub, Markdown  
+👤 Name: Amaira
+📅 First Contribution: June 2025
+🔧 Tools/Tech Used: VS Code, Git, GitHub, Python, Flask, HTML, JavaScript
 
-🌟 **My Experience:**  
-I started my open-source journey during Hacktoberfest 2023. At first, I was nervous about contributing because I thought I needed to be an expert in coding. But then I discovered projects that welcomed **non-code contributions** like improving documentation, writing tutorials, and designing simple graphics.  
+🌟 My Experience:
+I began my learning journey with curiosity and excitement, wanting to create something useful from scratch. My first project was a chatbot, which I built using Python and Flask. Sharing it with friends and seeing it in action gave me the confidence to explore more.
+After that, I started contributing to open-source projects, tackling beginner-friendly issues, fixing typos, writing small scripts, and gradually moving on to larger contributions. Every small success taught me new skills and motivated me to keep going.
 
-My first PR was fixing a small typo in documentation – and it got merged! That moment gave me the confidence to contribute more. Since then, I’ve shared tutorials, written blogs, and even translated README files into my native language.  
-
-📌 **Advice for Beginners:**  
-Don’t wait to be “perfect” at coding. Start small – fix a typo, write a blog, or share your story here. Every contribution matters in open source! 🚀
+📌 Advice for Beginners:
+Start with what excites you. Don’t be afraid to ask questions or make mistakes. Every step forward is progress, and sharing your journey can inspire others too! 🌱
+journey.
