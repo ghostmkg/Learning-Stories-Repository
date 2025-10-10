@@ -1,0 +1,3 @@
+I’m Pragati Gupta, a B.Tech student in Robotics and Artificial Intelligence Engineering, passionate about AI/ML, software development, and robotics systems. I enjoy exploring new technologies, solving real-world problems through code, and continuously learning through open-source collaboration. I’m particularly interested in projects involving machine learning, automation, and algorithm development, and I’m eager to contribute, learn, and grow with the open-source community.
+
+# myexp
