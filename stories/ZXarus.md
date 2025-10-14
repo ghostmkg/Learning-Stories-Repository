@@ -1,6 +1,6 @@
 # My Open Source Journey ✨
 
-👤 **Name:** ZXaru  
+👤 **Name:** ZXarus
 📅 **First Contribution:** October 2025
 🔧 **Tools/Tech Used:** GitHub, Markdown  
 
