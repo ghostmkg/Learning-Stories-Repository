@@ -9,7 +9,7 @@ I started my open-source journey during Hacktoberfest 2023. At first, I was nerv
 ## 📖 Story Details
 
 - **First Contribution (Month/Year):** [e.g., October 2024]
-- **Tech/Tools Used:** [e.g., Python, Documentation, Git, Markdown]
+- **Tech/Tools Used:** [e.g. javascript, Python, Documentation, Git, Markdown]
 - **Short Summary (3-5 lines):** [Briefly summarize your story, what you contributed, and your key takeaway.]
 
 ---
