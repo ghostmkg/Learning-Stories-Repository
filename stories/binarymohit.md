@@ -15,7 +15,6 @@ I started my open-source journey during Hacktoberfest 2025. At first, I was nerv
 
 📌 **Advice for Beginners:**  
 Start now. Don’t wait to be an expert before contributing. Even small changes matter — fixing a typo, improving README files, or solving minor bugs. The key is **to stay consistent and keep learning**. Every PR you make adds to your experience 🚀  
-
 ---
 
 
