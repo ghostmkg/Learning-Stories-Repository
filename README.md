@@ -1,3 +1,4 @@
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?logo=github&logoColor=white)](https://hacktoberfest.com/) 
 # 🌍 Open Source Learning Stories
 
 Welcome to **Open Source Learning Stories**! 🎉 This project is a community-driven collection of personal experiences, case studies, and learning journeys in the world of open source.
@@ -35,3 +36,12 @@ Follow this simple structure for your file:
 **🔧 Tools/Tech Used:** e.g. Python, FastAPI, GitHub
 **🌟 My Experience:** (Write 5–10 lines about your journey)
 **📌 Advice for Beginners:** (Share one impactful tip)
+
+---
+
+## 🔗 Helpful Links
+
+- Template for new stories: [`TEMPLATE_STORY.md`](./TEMPLATE_STORY.md)
+- Folder guide and naming rules: [`stories/README.md`](./stories/README.md)
+- Hacktoberfest participation guide: [`HACKTOBERFEST.md`](./HACKTOBERFEST.md)
+
