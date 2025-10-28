@@ -25,9 +25,3 @@ Over time, I began exploring non-code contributions too—fixing documentation e
 ## 🧭 Advice for Beginners
 
 Start by reading the CONTRIBUTING.md file thoroughly and look for issues labeled "good first issue" or "beginner-friendly". Don't hesitate to ask questions in discussions or issue comments—the community is there to help. Also, make sure to test your changes locally before submitting a pull request.
-
-### ✅ Submission Checklist
-
-- [x] My file is added under the `stories/` folder
-- [x] The filename is `Aaryan_story.md`
-- [x] The content is respectful, original, and helpful
